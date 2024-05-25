@@ -12,7 +12,7 @@ export const HeaderMain = () => {
                 goTo("context");
               }}
             >
-              Nosotros
+              Contexto
             </button>
           </li>
           <li className="header-items border-2 border-[transparent] duration-300 hover:border-b-titleBlue">
