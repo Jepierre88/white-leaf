@@ -22,9 +22,6 @@ export const StudiesPage = () => {
           <Tecnologies />
         </article>
       </article>
-      <h1 className="text-2xl text-titleGreen my-10 font-semibold">
-        ¡Únete a nosotros en esta misión verde!
-      </h1>
     </section>
   );
 };
