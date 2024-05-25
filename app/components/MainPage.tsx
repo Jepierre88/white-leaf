@@ -5,7 +5,6 @@ export const MainPage = () => {
   return (
     <section className="start flex w-screen h-screen items-center justify-center flex-col select-none -mt-20">
       <article className="start-page flex flex-col text-center gap-3">
-        <Image className="image" src={""} width={10} height={10} alt="logo" />
         <h1 className="text-6xl sm:text-8xl text-titleGreen font-bold">
           WhiteLeaf
         </h1>
